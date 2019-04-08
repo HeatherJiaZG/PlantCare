@@ -1,5 +1,5 @@
 # PlantCare
-
+![](./PlantCare.jpg)
 ## Introduction
 PlantCare is your best assistant in water conservation!
 
