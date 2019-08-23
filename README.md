@@ -1,4 +1,4 @@
-# PlantCare
+# Plant Care - Web Application
 
 https://devpost.com/software/plantcare-gde84i
 
