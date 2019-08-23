@@ -1,6 +1,8 @@
 # PlantCare
-![](./PlantCare.jpg)
+
 https://devpost.com/software/plantcare-gde84i
+
+![](./PlantCare.jpg)
 ## Introduction
 PlantCare is your best assistant in water conservation!
 
